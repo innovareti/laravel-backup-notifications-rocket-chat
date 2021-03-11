@@ -22,10 +22,5 @@
         "psr-0": {
             "NotificationsRocketChat": "src/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "master": "1.0"
-        }
     }
 }
