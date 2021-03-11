@@ -20,17 +20,12 @@
     },
     "autoload": {
         "psr-0": {
-            "LaravelAux": "src/"
+            "NotificationsRocketChat": "src/"
         }
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.11"
-        },
-        "laravel": {
-            "providers": [
-                "LaravelAux\\LaravelAuxServiceProvider"
-            ]
+            "dev-master": "1.0"
         }
     }
 }

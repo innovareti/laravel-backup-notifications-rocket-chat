@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelAux\Notifications;
+namespace NotificationsRocketChat\Notifications;
 
 use Spatie\Backup\Notifications\Notifications\CleanupHasFailed as BaseNotification;
 use NotificationChannels\RocketChat\RocketChatMessage;
