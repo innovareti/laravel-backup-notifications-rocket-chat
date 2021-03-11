@@ -1,12 +1,12 @@
 {
-    "name": "felipe/laravel-backup-notifications-rocket-chat",
+    "name": "innovareti/laravel-backup-notifications-rocket-chat",
     "description": "Laravel Backup notification channel for Rocket.Chat",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Felipe Bueno",
-            "email": "felipe@bueno.dev"
+            "email": "felipe.bueno@innovareti.com.br"
         }
     ],
     "require": {
